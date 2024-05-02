@@ -1,0 +1,4 @@
+# Ignore 'data' directories under specific top-level directories
+/CREMA/data/
+/RAVDESS/data/
+/TESS/data/
